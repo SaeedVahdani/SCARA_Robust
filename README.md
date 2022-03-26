@@ -1,2 +1,2 @@
-# SCARA_Robust
-SCARA_Robust
+# SCARA Robot
+Robust Controller Design
